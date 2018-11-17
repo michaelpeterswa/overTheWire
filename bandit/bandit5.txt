@@ -1,0 +1,3 @@
+cd inhere
+du -ab | grep 1033
+cat ./maybehere07/.file2

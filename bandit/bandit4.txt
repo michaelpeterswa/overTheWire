@@ -1,0 +1,3 @@
+cd inhere
+ls
+cat ./-file-07
