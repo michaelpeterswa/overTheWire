@@ -1,0 +1,4 @@
+long story short, needed help on this one
+giveaway is "not even google will find it"
+robots.txt helps prevent crawling
+shows a /s3cr3t/ directory

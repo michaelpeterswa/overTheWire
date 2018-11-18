@@ -1,0 +1,5 @@
+look in source
+files/pixel.png
+must be a files folder
+go to files
+users.txt
